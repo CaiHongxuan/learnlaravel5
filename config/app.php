@@ -166,6 +166,8 @@ return [
         /*
          * Package Service Providers...
          */
+        // 七牛云存储
+        itbdw\QiniuStorage\QiniuFilesystemServiceProvider::class,
 
         //
 
